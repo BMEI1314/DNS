@@ -21,4 +21,4 @@
              2.输入dns64服务器，返回合成ipv4-mapped ipv6 addr
 
 ####5.结果
- ![](./img/dnsquery.png)
+ ![](./dnsquery/img/dnsquery.png)
