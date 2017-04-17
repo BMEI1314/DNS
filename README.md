@@ -6,7 +6,7 @@
  
  
 ####2.输出：
-        struct 结构体 ：                     size           ip个数
+        保存到结构体_ipinfo ：                     size           ip个数
                                             v4_addr        解析ipv4地址
                                             v6_addr        解析ipv6 地址
                                             
