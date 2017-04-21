@@ -1,4 +1,4 @@
-see more[ c-only Vesion](https://github.com/BMEI1314/dns64)
+完整版dns64:see more[ c-only Version](https://github.com/BMEI1314/dns64)
 
 **实现dnsquery**
 
